@@ -2,6 +2,8 @@
 namespace Bluefrg;
 
 /**
+ * A simple PHP function used to retry failed operations.
+ *
  * @param $iRetries
  * @param callable $funcCallable
  * @param callable $funcFinally
