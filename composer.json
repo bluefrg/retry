@@ -1,0 +1,24 @@
+{
+  "name": "bluefrg/retry",
+  "description": "A simple PHP function used to retry failed operations.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mike Frank",
+      "email": "mike@bluefrog.ca",
+      "homepage": "https://bluefrog.ca/"
+    }
+  ],
+  "autoload": {
+    "files": ["src/Bluefrg/retry.php"]
+  },
+  "autoload-dev": {
+    "files": ["src/Bluefrg/retry.php"]
+  },
+  "require": {
+    "php": ">=5.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.6"
+  }
+}
