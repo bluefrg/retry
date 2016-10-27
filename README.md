@@ -14,5 +14,5 @@ $oUsr = Bluefrg/retry(3, function () use ($iId) {
 ## Install
 
 ```bash
-$ composer require bluefrg/retry:dev-master
+$ composer require bluefrg/retry
 ```
