@@ -1,3 +1,3 @@
 <?php
-require 'vendor/autoload.php';
-require 'src/Bluefrg/retry.php';
+require_once 'vendor/autoload.php';
+require_once 'src/Bluefrg/retry.php';
